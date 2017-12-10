@@ -1,0 +1,12 @@
+F:\Programming\Programming 1\Final Project 1A\Trapped in a Closet\Trapped in a Closet\bin\Debug\Trapped in a Closet.exe
+F:\Programming\Programming 1\Final Project 1A\Trapped in a Closet\Trapped in a Closet\bin\Debug\Trapped in a Closet.pdb
+F:\Programming\Programming 1\Final Project 1A\Trapped in a Closet\Trapped in a Closet\bin\Debug\Trapped in a Closet.xml
+F:\Programming\Programming 1\Final Project 1A\Trapped in a Closet\Trapped in a Closet\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming\Programming 1\Final Project 1A\Trapped in a Closet\Trapped in a Closet\obj\x86\Debug\Trapped_in_a_Closet.Form1.resources
+F:\Programming\Programming 1\Final Project 1A\Trapped in a Closet\Trapped in a Closet\obj\x86\Debug\Trapped_in_a_Closet.Form2.resources
+F:\Programming\Programming 1\Final Project 1A\Trapped in a Closet\Trapped in a Closet\obj\x86\Debug\Trapped_in_a_Closet.Resources.resources
+F:\Programming\Programming 1\Final Project 1A\Trapped in a Closet\Trapped in a Closet\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programming\Programming 1\Final Project 1A\Trapped in a Closet\Trapped in a Closet\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programming\Programming 1\Final Project 1A\Trapped in a Closet\Trapped in a Closet\obj\x86\Debug\Trapped in a Closet.exe
+F:\Programming\Programming 1\Final Project 1A\Trapped in a Closet\Trapped in a Closet\obj\x86\Debug\Trapped in a Closet.xml
+F:\Programming\Programming 1\Final Project 1A\Trapped in a Closet\Trapped in a Closet\obj\x86\Debug\Trapped in a Closet.pdb
